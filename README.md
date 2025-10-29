@@ -1,2 +1,2 @@
 # telegram_bot-
-tarjima bot
+tarjima bot 
